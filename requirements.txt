@@ -1,0 +1,1 @@
+Django==1.8.14django-bootstrap3==7.0.1dj-database-url==0.4.1
