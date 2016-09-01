@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 Django==1.8.14
+
 django-bootstrap3==7.0.1
-=======
-Django==1.8.14
-django-bootstrap3==7.0.1
->>>>>>> 2c60fc2551876758c3529e50390786b6e63a36c3
+
 dj-database-url==0.4.1
