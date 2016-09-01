@@ -1,1 +1,1 @@
-web: gunicorn startproject.wsgi:application
+web: gunicorn startapp.wsgis
