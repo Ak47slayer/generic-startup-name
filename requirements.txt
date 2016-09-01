@@ -4,3 +4,4 @@ Django==1.8.14
 Django==1.8.14
 >>>>>>> c8d6ab165a90e04745bf8bcb18551d999843be92
 django-bootstrap3==7.0.1
+dj-database-url==0.4.1
