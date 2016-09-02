@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 import os
 import sys
+from django.core.exceptions import ImproperlyConfigured
 
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "startproject.settings")
